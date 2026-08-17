@@ -169,28 +169,64 @@
 <rect x="24" y="24" width="430" height="562" rx="20" ry="20" fill="#0F172A" fill-opacity="0.65" stroke="#334155" stroke-opacity="0.35"/>
 </g>
 <g clip-path="url(#leftClip)">
-<g font-size="13" fill="url(#accentGrad)">
+<g font-size="7.5" fill="url(#accentGrad)">
       <animateTransform attributeName="transform" type="translate" values="0,0; 0,-6; 0,0; 0,5; 0,0" dur="5s" repeatCount="indefinite"/>
-<text x="58" y="80" xml:space="preserve" opacity="0"><tspan>      .-------------.</tspan><animate attributeName="opacity" from="0" to="1" begin="0.0s" dur="0.5s" fill="freeze"/></text>
-<text x="58" y="98" xml:space="preserve" opacity="0"><tspan>     /  .---------.  \</tspan><animate attributeName="opacity" from="0" to="1" begin="0.18s" dur="0.5s" fill="freeze"/></text>
-<text x="58" y="116" xml:space="preserve" opacity="0"><tspan>    |   |  O   O  |   |</tspan><animate attributeName="opacity" from="0" to="1" begin="0.36s" dur="0.5s" fill="freeze"/></text>
-<text x="58" y="134" xml:space="preserve" opacity="0"><tspan>    |   '----+----'   |</tspan><animate attributeName="opacity" from="0" to="1" begin="0.54s" dur="0.5s" fill="freeze"/></text>
-<text x="58" y="152" xml:space="preserve" opacity="0"><tspan>    |       ---       |</tspan><animate attributeName="opacity" from="0" to="1" begin="0.72s" dur="0.5s" fill="freeze"/></text>
-<text x="58" y="170" xml:space="preserve" opacity="0"><tspan>     \  .---------.  /</tspan><animate attributeName="opacity" from="0" to="1" begin="0.9s" dur="0.5s" fill="freeze"/></text>
-<text x="58" y="188" xml:space="preserve" opacity="0"><tspan>      '-|  ~~~~~  |-'</tspan><animate attributeName="opacity" from="0" to="1" begin="1.08s" dur="0.5s" fill="freeze"/></text>
-<text x="58" y="206" xml:space="preserve" opacity="0"><tspan>        '----+----'</tspan><animate attributeName="opacity" from="0" to="1" begin="1.26s" dur="0.5s" fill="freeze"/></text>
-<text x="58" y="224" xml:space="preserve" opacity="0"><tspan>       /      |      \</tspan><animate attributeName="opacity" from="0" to="1" begin="1.44s" dur="0.5s" fill="freeze"/></text>
-<text x="58" y="242" xml:space="preserve" opacity="0"><tspan>      /   &lt; GVF1 &gt;    \</tspan><animate attributeName="opacity" from="0" to="1" begin="1.62s" dur="0.5s" fill="freeze"/></text>
-<text x="58" y="260" xml:space="preserve" opacity="0"><tspan>         '---------'</tspan><animate attributeName="opacity" from="0" to="1" begin="1.8s" dur="0.5s" fill="freeze"/></text>
-<text x="58" y="278" xml:space="preserve" opacity="0"><tspan> </tspan><animate attributeName="opacity" from="0" to="1" begin="1.98s" dur="0.5s" fill="freeze"/></text>
-<text x="58" y="296" xml:space="preserve" opacity="0"><tspan>   &gt; GUILHERME.DEV</tspan><animate attributeName="opacity" from="0" to="1" begin="2.16s" dur="0.5s" fill="freeze"/></text>
-<text x="58" y="314" xml:space="preserve" opacity="0"><tspan>   &gt; STATUS: ONLINE_</tspan><animate attributeName="opacity" from="0" to="1" begin="2.34s" dur="0.5s" fill="freeze"/></text>
+<text x="58" y="68.0" xml:space="preserve" opacity="0"><tspan>-::::::::::::::::..........................</tspan><animate attributeName="opacity" from="0" to="1" begin="0.0s" dur="0.35s" fill="freeze"/></text>
+<text x="58" y="75.9" xml:space="preserve" opacity="0"><tspan>-----::::::::::::::.........................</tspan><animate attributeName="opacity" from="0" to="1" begin="0.032s" dur="0.35s" fill="freeze"/></text>
+<text x="58" y="83.8" xml:space="preserve" opacity="0"><tspan>--------:::::::::::::.......................</tspan><animate attributeName="opacity" from="0" to="1" begin="0.064s" dur="0.35s" fill="freeze"/></text>
+<text x="58" y="91.7" xml:space="preserve" opacity="0"><tspan>-----------:::::::::::.....................</tspan><animate attributeName="opacity" from="0" to="1" begin="0.096s" dur="0.35s" fill="freeze"/></text>
+<text x="58" y="99.6" xml:space="preserve" opacity="0"><tspan>--------------::::::::::.....................</tspan><animate attributeName="opacity" from="0" to="1" begin="0.128s" dur="0.35s" fill="freeze"/></text>
+<text x="58" y="107.5" xml:space="preserve" opacity="0"><tspan>----------------:::::::::...................</tspan><animate attributeName="opacity" from="0" to="1" begin="0.16s" dur="0.35s" fill="freeze"/></text>
+<text x="58" y="115.4" xml:space="preserve" opacity="0"><tspan>------------------:::::::.........::.......</tspan><animate attributeName="opacity" from="0" to="1" begin="0.192s" dur="0.35s" fill="freeze"/></text>
+<text x="58" y="123.30000000000001" xml:space="preserve" opacity="0"><tspan>--------------==---:::::::::::::::::....        ...</tspan><animate attributeName="opacity" from="0" to="1" begin="0.224s" dur="0.35s" fill="freeze"/></text>
+<text x="58" y="131.2" xml:space="preserve" opacity="0"><tspan>--------=-==---==----:::::::----::........</tspan><animate attributeName="opacity" from="0" to="1" begin="0.256s" dur="0.35s" fill="freeze"/></text>
+<text x="58" y="139.10000000000002" xml:space="preserve" opacity="0"><tspan>----=====+#%#*=--==----:::--::-:::::.:::.:.:::.          .</tspan><animate attributeName="opacity" from="0" to="1" begin="0.288s" dur="0.35s" fill="freeze"/></text>
+<text x="58" y="147.0" xml:space="preserve" opacity="0"><tspan>--======*##%@@%#*=---------::::::------:::::---:...            .</tspan><animate attributeName="opacity" from="0" to="1" begin="0.32s" dur="0.35s" fill="freeze"/></text>
+<text x="58" y="154.9" xml:space="preserve" opacity="0"><tspan>-=====+**##%%%%%%%#+=---:--::::-======---------:::... ...      .. ..</tspan><animate attributeName="opacity" from="0" to="1" begin="0.352s" dur="0.35s" fill="freeze"/></text>
+<text x="58" y="162.8" xml:space="preserve" opacity="0"><tspan>-====+%#*##%@%%%%%%%%*=-------==+++++===-----==-:::::.......... .. ..</tspan><animate attributeName="opacity" from="0" to="1" begin="0.384s" dur="0.35s" fill="freeze"/></text>
+<text x="58" y="170.7" xml:space="preserve" opacity="0"><tspan>====+%%**##%%%%%%%###%+----=++++++++++++++===++=-::::::.....::....   .</tspan><animate attributeName="opacity" from="0" to="1" begin="0.416s" dur="0.35s" fill="freeze"/></text>
+<text x="58" y="178.60000000000002" xml:space="preserve" opacity="0"><tspan>-===#@%**#%%%%%%%#**#+---=+***++++++++++*****+++=-:::::::....... ..  ..</tspan><animate attributeName="opacity" from="0" to="1" begin="0.448s" dur="0.35s" fill="freeze"/></text>
+<text x="58" y="186.5" xml:space="preserve" opacity="0"><tspan>-==#@%%*##%%%%%%%#*#*=---+**++===-------==+***+++++==========--:::.....</tspan><animate attributeName="opacity" from="0" to="1" begin="0.48s" dur="0.35s" fill="freeze"/></text>
+<text x="58" y="194.4" xml:space="preserve" opacity="0"><tspan>-=*@%%#*#%%%%%%%%#**=---=**++==+++++++===--=+***++******+++++=+===-........</tspan><animate attributeName="opacity" from="0" to="1" begin="0.512s" dur="0.35s" fill="freeze"/></text>
+<text x="58" y="202.3" xml:space="preserve" opacity="0"><tspan>--+%%%**#%%%%%%%%##+-===+***+************++++********+++++++++=+==-:.......</tspan><animate attributeName="opacity" from="0" to="1" begin="0.544s" dur="0.35s" fill="freeze"/></text>
+<text x="58" y="210.20000000000002" xml:space="preserve" opacity="0"><tspan>-=+#%%**#%%%%%%%##*====++***************************++==--=+++++===-:::-==----::</tspan><animate attributeName="opacity" from="0" to="1" begin="0.576s" dur="0.35s" fill="freeze"/></text>
+<text x="58" y="218.1" xml:space="preserve" opacity="0"><tspan>-=*%%#**#%%%%%%%##==++=+**++++++++++****************+++=--::-===+===-:-#%%%%####</tspan><animate attributeName="opacity" from="0" to="1" begin="0.608s" dur="0.35s" fill="freeze"/></text>
+<text x="58" y="226.0" xml:space="preserve" opacity="0"><tspan>-=########%%%%%%%*==+++***++++=======++++**************++++=-:::-====:+%%%@@%%@%</tspan><animate attributeName="opacity" from="0" to="1" begin="0.64s" dur="0.35s" fill="freeze"/></text>
+<text x="58" y="233.9" xml:space="preserve" opacity="0"><tspan>=#%%%%@@@@%%@%%%#==+++++*++++++++++=====++++++++++**++++++++++--:-====#####%%##%</tspan><animate attributeName="opacity" from="0" to="1" begin="0.672s" dur="0.35s" fill="freeze"/></text>
+<text x="58" y="241.8" xml:space="preserve" opacity="0"><tspan>*##%%%%%%%%@@##*==-+++++**++++++++++++++++=+++++==+++++++++++++=--===#%#########</tspan><animate attributeName="opacity" from="0" to="1" begin="0.704s" dur="0.35s" fill="freeze"/></text>
+<text x="58" y="249.70000000000002" xml:space="preserve" opacity="0"><tspan>###%%@@%%%%%%%#=*=-++++***++++++++++++++++++++++====++++++++++++=-=+***##%%#####</tspan><animate attributeName="opacity" from="0" to="1" begin="0.736s" dur="0.35s" fill="freeze"/></text>
+<text x="58" y="257.6" xml:space="preserve" opacity="0"><tspan>##%%##%%%%%%%#=*#=-++++****++****++++**+++++++++======+----========+=--=+++**###</tspan><animate attributeName="opacity" from="0" to="1" begin="0.768s" dur="0.35s" fill="freeze"/></text>
+<text x="58" y="265.5" xml:space="preserve" opacity="0"><tspan>%%%%%##%%%%%#==+==-++++******++++++++++++++++++=======+=----:-========-::::::-==</tspan><animate attributeName="opacity" from="0" to="1" begin="0.8s" dur="0.35s" fill="freeze"/></text>
+<text x="58" y="273.4" xml:space="preserve" opacity="0"><tspan>%%%%%%%%%#**+===---=++++*********+**+++++++++++====+=++++===--====-==:..........</tspan><animate attributeName="opacity" from="0" to="1" begin="0.832s" dur="0.35s" fill="freeze"/></text>
+<text x="58" y="281.3" xml:space="preserve" opacity="0"><tspan>#%%%%##*+===-------=++++******+******++++****++====++++++++=========:...........</tspan><animate attributeName="opacity" from="0" to="1" begin="0.864s" dur="0.35s" fill="freeze"/></text>
+<text x="58" y="289.20000000000005" xml:space="preserve" opacity="0"><tspan>##**++===----::::::=+++++*+++++****++++=+*****+====+++++++++=======-............</tspan><animate attributeName="opacity" from="0" to="1" begin="0.896s" dur="0.35s" fill="freeze"/></text>
+<text x="58" y="297.1" xml:space="preserve" opacity="0"><tspan>=====---:::::::::::=+++++++*******+++++=-=++++=====++++++++++=====-.............</tspan><animate attributeName="opacity" from="0" to="1" begin="0.928s" dur="0.35s" fill="freeze"/></text>
+<text x="58" y="305.0" xml:space="preserve" opacity="0"><tspan>=---:::::::::::::::=+++++++++++++++++++**++==--====+++++++++++===-.............:</tspan><animate attributeName="opacity" from="0" to="1" begin="0.96s" dur="0.35s" fill="freeze"/></text>
+<text x="58" y="312.9" xml:space="preserve" opacity="0"><tspan>=-:::::::::::::...-=+++++++++++++++====++**++=====+++++++++++===-............:::</tspan><animate attributeName="opacity" from="0" to="1" begin="0.992s" dur="0.35s" fill="freeze"/></text>
+<text x="58" y="320.8" xml:space="preserve" opacity="0"><tspan>-=-:::::::.......:-==++++++++============+*+=====++++++++++++===:.........::::::</tspan><animate attributeName="opacity" from="0" to="1" begin="1.024s" dur="0.35s" fill="freeze"/></text>
+<text x="58" y="328.7" xml:space="preserve" opacity="0"><tspan>---:.......::--======++++++=---==+=+++++=+++=---=+++++++++++===-................</tspan><animate attributeName="opacity" from="0" to="1" begin="1.056s" dur="0.35s" fill="freeze"/></text>
+<text x="58" y="336.6" xml:space="preserve" opacity="0"><tspan>----:...:-====-----===+++++=============++=++=---==+++++++++===::...............</tspan><animate attributeName="opacity" from="0" to="1" begin="1.088s" dur="0.35s" fill="freeze"/></text>
+<text x="58" y="344.5" xml:space="preserve" opacity="0"><tspan>-----:-==---:::::::-===+++++========-===========---==++++++===::::::::::::::::::</tspan><animate attributeName="opacity" from="0" to="1" begin="1.12s" dur="0.35s" fill="freeze"/></text>
+<text x="58" y="352.40000000000003" xml:space="preserve" opacity="0"><tspan>--------:::::::::::-===+++++++++==++======-----==---==++++===--:::::::::::::::::</tspan><animate attributeName="opacity" from="0" to="1" begin="1.152s" dur="0.35s" fill="freeze"/></text>
+<text x="58" y="360.3" xml:space="preserve" opacity="0"><tspan>----------::::::::-====++=+++++++==+++++=====---==---=======:.::-:::::::::::::::</tspan><animate attributeName="opacity" from="0" to="1" begin="1.184s" dur="0.35s" fill="freeze"/></text>
+<text x="58" y="368.2" xml:space="preserve" opacity="0"><tspan>--------------::::-+=-==++++*++++++++==+++=========--======-.. ..:::::::::::::::</tspan><animate attributeName="opacity" from="0" to="1" begin="1.216s" dur="0.35s" fill="freeze"/></text>
+<text x="58" y="376.1" xml:space="preserve" opacity="0"><tspan>-----------:::::::=+=-=++********+++============+========--........:-:::::::::::</tspan><animate attributeName="opacity" from="0" to="1" begin="1.248s" dur="0.35s" fill="freeze"/></text>
+<text x="58" y="384.0" xml:space="preserve" opacity="0"><tspan>--------...::::::-+++===+**###****++=====+==++++=======--:::........::::::::::::</tspan><animate attributeName="opacity" from="0" to="1" begin="1.28s" dur="0.35s" fill="freeze"/></text>
+<text x="58" y="391.90000000000003" xml:space="preserve" opacity="0"><tspan>--------:..::::-=+++++=-=**#%%%%####***++++++++======---::::::::......::::::::::</tspan><animate attributeName="opacity" from="0" to="1" begin="1.312s" dur="0.35s" fill="freeze"/></text>
+<text x="58" y="399.8" xml:space="preserve" opacity="0"><tspan>---------.::::-==++++++==++**%%%@%%%%##***+++++====---:::::::::::::.:..:::::----</tspan><animate attributeName="opacity" from="0" to="1" begin="1.344s" dur="0.35s" fill="freeze"/></text>
+<text x="58" y="407.7" xml:space="preserve" opacity="0"><tspan>=========-:::-++++*****+=-=+*##%%%%%%%##****++===---::.:::::------:::::::::-----</tspan><animate attributeName="opacity" from="0" to="1" begin="1.376s" dur="0.35s" fill="freeze"/></text>
+<text x="58" y="415.6" xml:space="preserve" opacity="0"><tspan>++++++++++---+***######*+--+*+***#*######***+=---:--:.....:::-------:::::::-----</tspan><animate attributeName="opacity" from="0" to="1" begin="1.408s" dur="0.35s" fill="freeze"/></text>
+<text x="58" y="423.5" xml:space="preserve" opacity="0"><tspan>+++++++++*+==#%#*#%%%%###+=-==+++**********+==-::----:..:....::---=--::::-::----</tspan><animate attributeName="opacity" from="0" to="1" begin="1.44s" dur="0.35s" fill="freeze"/></text>
 </g>
-<rect x="58" y="325" width="9" height="14" fill="#22D3EE" opacity="0">
-      <animate attributeName="opacity" begin="2.52s" values="0;1;1;0;0" keyTimes="0;0.05;0.5;0.55;1" dur="1s" repeatCount="indefinite"/>
+<g font-size="12" fill="url(#accentGrad)">
+<text x="58" y="451.40000000000003" xml:space="preserve" opacity="0">&gt; GUILHERME.DEV<animate attributeName="opacity" from="0" to="1" begin="1.672s" dur="0.4s" fill="freeze"/></text>
+<text x="58" y="468.40000000000003" xml:space="preserve" opacity="0">&gt; STATUS: ONLINE_<animate attributeName="opacity" from="0" to="1" begin="1.852s" dur="0.4s" fill="freeze"/></text>
+</g>
+<rect x="58" y="478.40000000000003" width="9" height="14" fill="#22D3EE" opacity="0">
+      <animate attributeName="opacity" begin="2.032s" values="0;1;1;0;0" keyTimes="0;0.05;0.5;0.55;1" dur="1s" repeatCount="indefinite"/>
     </rect>
 <g opacity="0">
-      <animate attributeName="opacity" from="0" to="1" begin="2.92s" dur="0.6s" fill="freeze"/>
+      <animate attributeName="opacity" from="0" to="1" begin="2.33s" dur="0.6s" fill="freeze"/>
       <circle cx="63" cy="552" r="4" fill="#10B981">
         <animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/>
       </circle>
