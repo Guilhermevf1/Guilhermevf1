@@ -1,6 +1,6 @@
-<svg width="1180" height="484" viewBox="0 0 1180 484" xmlns="http://www.w3.org/2000/svg" font-family="'Fira Code','Courier New',monospace">
+<svg width="1180" height="616" viewBox="0 0 1180 616" xmlns="http://www.w3.org/2000/svg" font-family="'Fira Code','Courier New',monospace">
 <defs>
-<clipPath id="canvasClip"><rect x="0" y="0" width="1180" height="484" rx="20" ry="20"/></clipPath>
+<clipPath id="canvasClip"><rect x="0" y="0" width="1180" height="616" rx="20" ry="20"/></clipPath>
 
     <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#8B7CF6"/>
@@ -14,7 +14,7 @@
       <stop offset="0%" stop-color="#4FD1C5" stop-opacity="0.16"/>
       <stop offset="100%" stop-color="#4FD1C5" stop-opacity="0"/>
     </radialGradient>
-    <linearGradient id="shimmer" gradientUnits="userSpaceOnUse" x1="-200" y1="0" x2="200" y2="484">
+    <linearGradient id="shimmer" gradientUnits="userSpaceOnUse" x1="-200" y1="0" x2="200" y2="616">
       <stop offset="0%" stop-color="#8B7CF6" stop-opacity="0"/>
       <stop offset="45%" stop-color="#4FD1C5" stop-opacity="0.6"/>
       <stop offset="55%" stop-color="#4FD1C5" stop-opacity="0.6"/>
@@ -31,18 +31,18 @@
     </filter>
 </defs>
 <g clip-path="url(#canvasClip)">
-<rect x="0" y="0" width="1180" height="484" fill="#07070A"/>
-<circle cx="140" cy="145.2" r="220" fill="url(#blobA)" filter="url(#bigBlur)">
+<rect x="0" y="0" width="1180" height="616" fill="#07070A"/>
+<circle cx="140" cy="184.79999999999998" r="220" fill="url(#blobA)" filter="url(#bigBlur)">
       <animateTransform attributeName="transform" type="translate" values="0,0; 16,-10; -12,12; 0,0" dur="16s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.33;0.66;1"/>
     </circle>
-    <circle cx="1020" cy="338.79999999999995" r="240" fill="url(#blobB)" filter="url(#bigBlur)">
+    <circle cx="1020" cy="431.2" r="240" fill="url(#blobB)" filter="url(#bigBlur)">
       <animateTransform attributeName="transform" type="translate" values="0,0; -18,12; 14,-10; 0,0" dur="19s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.33;0.66;1"/>
     </circle>
-<rect x="0" y="0" width="1180" height="484" filter="url(#noiseFilter)"/>
-<rect x="1.5" y="1.5" width="1177" height="481" rx="19" ry="19" fill="none" stroke="#2A2A33" stroke-opacity="0.4" stroke-width="1.5"/>
-<rect x="1.5" y="1.5" width="1177" height="481" rx="19" ry="19" fill="none" stroke="url(#shimmer)" stroke-width="1.6"/>
+<rect x="0" y="0" width="1180" height="616" filter="url(#noiseFilter)"/>
+<rect x="1.5" y="1.5" width="1177" height="613" rx="19" ry="19" fill="none" stroke="#2A2A33" stroke-opacity="0.4" stroke-width="1.5"/>
+<rect x="1.5" y="1.5" width="1177" height="613" rx="19" ry="19" fill="none" stroke="url(#shimmer)" stroke-width="1.6"/>
 <g filter="url(#panelShadow)">
-<rect x="24" y="24" width="1132" height="436" rx="16" ry="16" fill="#101014" fill-opacity="0.60" stroke="#2A2A33" stroke-opacity="0.45"/>
+<rect x="24" y="24" width="1132" height="568" rx="16" ry="16" fill="#101014" fill-opacity="0.60" stroke="#2A2A33" stroke-opacity="0.45"/>
 </g>
 <rect x="24" y="24" width="1132" height="36" rx="16" ry="16" fill="#0C0C10"/>
 <rect x="24" y="46" width="1132" height="14" fill="#0C0C10"/>
@@ -50,26 +50,28 @@
 <circle cx="64" cy="42.0" r="5" fill="#4A4A52"/>
 <circle cx="82" cy="42.0" r="5" fill="#4A4A52"/>
 <text x="590.0" y="46.0" font-size="11" fill="#8E8E96" text-anchor="middle" letter-spacing="0.5">Guilhermevf1@github: ~/about</text>
-<text x="140.0" y="94" font-size="20" font-weight="700" fill="url(#accentGrad)" opacity="0">ABOUT ME<animate attributeName="opacity" from="0" to="1" begin="0.15s" dur="0.6s" fill="freeze"/></text>
+<text x="140.0" y="96" font-size="23" font-weight="700" fill="url(#accentGrad)" opacity="0">ABOUT ME<animate attributeName="opacity" from="0" to="1" begin="0.15s" dur="0.6s" fill="freeze"/></text>
 <g opacity="0" transform="translate(0,10)"><animate attributeName="opacity" from="0" to="1" begin="0.50s" dur="0.6s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0,10;0,0" begin="0.50s" dur="0.6s" fill="freeze"/>
-<text x="140.0" y="128" font-size="15.5" fill="#F5F5F7">Sou desenvolvedor web e estudante de Engenharia de Software, apaixonado por tecnologia,</text>
-<text x="140.0" y="153" font-size="15.5" fill="#F5F5F7">desenvolvimento de produtos digitais e criação de soluções que realmente resolvem problemas.</text>
+<text x="140.0" y="136" font-size="17.5" fill="#F5F5F7">Sou desenvolvedor web e estudante de Engenharia de Software, apaixonado por</text>
+<text x="140.0" y="165" font-size="17.5" fill="#F5F5F7">tecnologia, desenvolvimento de produtos digitais e criação de soluções que realmente</text>
+<text x="140.0" y="194" font-size="17.5" fill="#F5F5F7">resolvem problemas.</text>
 </g>
 <g opacity="0" transform="translate(0,10)"><animate attributeName="opacity" from="0" to="1" begin="0.75s" dur="0.6s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0,10;0,0" begin="0.75s" dur="0.6s" fill="freeze"/>
-<text x="140.0" y="192" font-size="15.5" fill="#F5F5F7">Atualmente trabalho no desenvolvimento de aplicações web completas — do frontend ao backend —,</text>
-<text x="140.0" y="217" font-size="15.5" fill="#F5F5F7">com experiência em bancos de dados, autenticação, APIs, pagamentos, integrações e deploy. Também</text>
-<text x="140.0" y="242" font-size="15.5" fill="#F5F5F7">venho explorando cada vez mais JavaScript, Java, automações e ferramentas de IA para acelerar o</text>
-<text x="140.0" y="267" font-size="15.5" fill="#F5F5F7">desenvolvimento e criar produtos mais inteligentes.</text>
+<text x="140.0" y="239" font-size="17.5" fill="#F5F5F7">Atualmente trabalho no desenvolvimento de aplicações web completas — do frontend ao</text>
+<text x="140.0" y="268" font-size="17.5" fill="#F5F5F7">backend —, com experiência em bancos de dados, autenticação, APIs, pagamentos,</text>
+<text x="140.0" y="297" font-size="17.5" fill="#F5F5F7">integrações e deploy. Também venho explorando cada vez mais JavaScript, Java,</text>
+<text x="140.0" y="326" font-size="17.5" fill="#F5F5F7">automações e ferramentas de IA para acelerar o desenvolvimento e criar produtos mais</text>
+<text x="140.0" y="355" font-size="17.5" fill="#F5F5F7">inteligentes.</text>
 </g>
 <g opacity="0" transform="translate(0,10)"><animate attributeName="opacity" from="0" to="1" begin="1.00s" dur="0.6s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0,10;0,0" begin="1.00s" dur="0.6s" fill="freeze"/>
-<text x="140.0" y="306" font-size="15.5" fill="#F5F5F7">Além de programar, trabalho com produtos digitais e negócios online, o que me deu uma visão que</text>
-<text x="140.0" y="331" font-size="15.5" fill="#F5F5F7">vai além do código: penso em produto, experiência do usuário, vendas, automação e</text>
-<text x="140.0" y="356" font-size="15.5" fill="#F5F5F7">escalabilidade.</text>
+<text x="140.0" y="400" font-size="17.5" fill="#F5F5F7">Além de programar, trabalho com produtos digitais e negócios online, o que me deu uma</text>
+<text x="140.0" y="429" font-size="17.5" fill="#F5F5F7">visão que vai além do código: penso em produto, experiência do usuário, vendas,</text>
+<text x="140.0" y="458" font-size="17.5" fill="#F5F5F7">automação e escalabilidade.</text>
 </g>
 <g opacity="0" transform="translate(0,10)"><animate attributeName="opacity" from="0" to="1" begin="1.25s" dur="0.6s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0,10;0,0" begin="1.25s" dur="0.6s" fill="freeze"/>
-<text x="140.0" y="395" font-size="15.5" fill="#F5F5F7">Hoje meu objetivo é evoluir constantemente como desenvolvedor, construir projetos cada vez mais</text>
-<text x="140.0" y="420" font-size="15.5" fill="#F5F5F7">profissionais e transformar ideias em produtos funcionais — do primeiro protótipo até uma</text>
-<text x="140.0" y="445" font-size="15.5" fill="#F5F5F7">aplicação pronta para usuários reais.</text>
+<text x="140.0" y="503" font-size="17.5" fill="#F5F5F7">Hoje meu objetivo é evoluir constantemente como desenvolvedor, construir projetos</text>
+<text x="140.0" y="532" font-size="17.5" fill="#F5F5F7">cada vez mais profissionais e transformar ideias em produtos funcionais — do primeiro</text>
+<text x="140.0" y="561" font-size="17.5" fill="#F5F5F7">protótipo até uma aplicação pronta para usuários reais.</text>
 </g>
 </g>
 </svg>
