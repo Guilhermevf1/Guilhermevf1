@@ -14,13 +14,23 @@
 
 <br>
 
+## What I Build
+
+- Business applications
+- CRM systems
+- E-commerce
+- Dashboards
+- Payment flows
+- APIs
+- Automation
+- Third-party integrations
+- Analytics
+
+---
+
 ## Real-World Experience
 
-**CRM para Transportadora** · *projeto privado / comercial*
-Desenvolvimento de uma aplicação de gestão para uma operação de transporte: gestão de informações, banco de dados, autenticação, dashboards operacionais, regras de negócio específicas da operação, integrações entre sistemas e analytics para acompanhamento dos processos. Código e dados proprietários, não disponível publicamente.
-
-**E-commerce** · *projeto privado / comercial*
-Desenvolvimento de um sistema de e-commerce: catálogo de produtos, gestão de pedidos, banco de dados, processamento de pagamentos (Stripe e PIX), subscriptions, integrações com serviços externos, automações e dashboards administrativos. Código e dados proprietários, não disponível publicamente.
+Tenho experiência prática desenvolvendo sistemas em produção para necessidades reais de negócio, incluindo sistemas de gestão, aplicações de negócio e soluções de e-commerce. Essa experiência envolve integrações entre sistemas, processamento de pagamentos, dashboards e automações de processos. Por se tratar de projetos privados e comerciais, o código, os dados e outros detalhes específicos não são divulgados publicamente.
 
 ---
 
@@ -29,16 +39,23 @@ Desenvolvimento de um sistema de e-commerce: catálogo de produtos, gestão de p
 **Experiência aplicada em projetos reais:**
 
 - Backend (APIs, autenticação/autorização, regras de negócio)
+- Payments, subscriptions & integrations (Stripe, PIX, webhooks, APIs externas)
+- Dashboards & analytics (indicadores de negócio, visualização de dados)
 - Database design (modelagem e estruturação de banco de dados)
 - API security (autenticação, autorização, validação de dados de entrada)
 - Performance (otimização de queries, carregamento, identificação de gargalos)
 
 **Aprofundando atualmente, através da graduação em Engenharia de Software:**
 
+- Backend (conceitos e padrões mais avançados)
 - Software architecture
 - System design
+- API security (conceitos mais avançados)
+- Performance (técnicas mais avançadas)
+- Database design (modelagem para sistemas mais complexos)
 - Testing (testes automatizados)
 - Java
+- Spring Boot
 
 ---
 

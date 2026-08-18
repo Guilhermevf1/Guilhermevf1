@@ -1,6 +1,6 @@
-<svg width="1180" height="478" viewBox="0 0 1180 478" xmlns="http://www.w3.org/2000/svg" font-family="'Fira Code','Courier New',monospace">
+<svg width="1180" height="534" viewBox="0 0 1180 534" xmlns="http://www.w3.org/2000/svg" font-family="'Fira Code','Courier New',monospace">
 <defs>
-<clipPath id="canvasClip"><rect x="0" y="0" width="1180" height="478" rx="20" ry="20"/></clipPath>
+<clipPath id="canvasClip"><rect x="0" y="0" width="1180" height="534" rx="20" ry="20"/></clipPath>
 
     <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#8B7CF6"/>
@@ -14,7 +14,7 @@
       <stop offset="0%" stop-color="#8B7CF6" stop-opacity="0.18"/>
       <stop offset="100%" stop-color="#8B7CF6" stop-opacity="0"/>
     </radialGradient>
-    <linearGradient id="shimmer" gradientUnits="userSpaceOnUse" x1="-200" y1="0" x2="200" y2="478">
+    <linearGradient id="shimmer" gradientUnits="userSpaceOnUse" x1="-200" y1="0" x2="200" y2="534">
       <stop offset="0%" stop-color="#8B7CF6" stop-opacity="0"/>
       <stop offset="45%" stop-color="#4FD1C5" stop-opacity="0.6"/>
       <stop offset="55%" stop-color="#4FD1C5" stop-opacity="0.6"/>
@@ -35,18 +35,18 @@
     </filter>
 </defs>
 <g clip-path="url(#canvasClip)">
-<rect x="0" y="0" width="1180" height="478" fill="#07070A"/>
-<circle cx="1040" cy="119.5" r="220" fill="url(#blobA)" filter="url(#bigBlur)">
+<rect x="0" y="0" width="1180" height="534" fill="#07070A"/>
+<circle cx="1040" cy="133.5" r="220" fill="url(#blobA)" filter="url(#bigBlur)">
       <animateTransform attributeName="transform" type="translate" values="0,0; -16,10; 12,-12; 0,0" dur="17s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.33;0.66;1"/>
     </circle>
-    <circle cx="160" cy="358.5" r="220" fill="url(#blobB)" filter="url(#bigBlur)">
+    <circle cx="160" cy="400.5" r="220" fill="url(#blobB)" filter="url(#bigBlur)">
       <animateTransform attributeName="transform" type="translate" values="0,0; 18,-12; -14,10; 0,0" dur="15s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1" keyTimes="0;0.33;0.66;1"/>
     </circle>
-<rect x="0" y="0" width="1180" height="478" filter="url(#noiseFilter)"/>
-<rect x="1.5" y="1.5" width="1177" height="475" rx="19" ry="19" fill="none" stroke="#2A2A33" stroke-opacity="0.4" stroke-width="1.5"/>
-<rect x="1.5" y="1.5" width="1177" height="475" rx="19" ry="19" fill="none" stroke="url(#shimmer)" stroke-width="1.6"/>
+<rect x="0" y="0" width="1180" height="534" filter="url(#noiseFilter)"/>
+<rect x="1.5" y="1.5" width="1177" height="531" rx="19" ry="19" fill="none" stroke="#2A2A33" stroke-opacity="0.4" stroke-width="1.5"/>
+<rect x="1.5" y="1.5" width="1177" height="531" rx="19" ry="19" fill="none" stroke="url(#shimmer)" stroke-width="1.6"/>
 <g filter="url(#panelShadow)">
-<rect x="24" y="24" width="1132" height="430" rx="16" ry="16" fill="#101014" fill-opacity="0.60" stroke="#2A2A33" stroke-opacity="0.45"/>
+<rect x="24" y="24" width="1132" height="486" rx="16" ry="16" fill="#101014" fill-opacity="0.60" stroke="#2A2A33" stroke-opacity="0.45"/>
 </g>
 <rect x="24" y="24" width="1132" height="36" rx="16" ry="16" fill="#0C0C10"/>
 <rect x="24" y="46" width="1132" height="14" fill="#0C0C10"/>
@@ -148,46 +148,63 @@
       <g transform="translate(436.2,372.0) scale(0.8333)"><path d="M5.283 18.36a3.505 3.505 0 0 0 2.493-1.032l3.6-3.6a.684.684 0 0 1 .946 0l3.613 3.613a3.504 3.504 0 0 0 2.493 1.032h.71l-4.56 4.56a3.647 3.647 0 0 1-5.156 0L4.85 18.36ZM18.428 5.627a3.505 3.505 0 0 0-2.493 1.032l-3.613 3.614a.67.67 0 0 1-.946 0l-3.6-3.6A3.505 3.505 0 0 0 5.283 5.64h-.434l4.573-4.572a3.646 3.646 0 0 1 5.156 0l4.559 4.559ZM1.068 9.422 3.79 6.699h1.492a2.483 2.483 0 0 1 1.744.722l3.6 3.6a1.73 1.73 0 0 0 2.443 0l3.614-3.613a2.482 2.482 0 0 1 1.744-.723h1.767l2.737 2.737a3.646 3.646 0 0 1 0 5.156l-2.736 2.736h-1.768a2.482 2.482 0 0 1-1.744-.722l-3.613-3.613a1.77 1.77 0 0 0-2.444 0l-3.6 3.6a2.483 2.483 0 0 1-1.744.722H3.791l-2.723-2.723a3.646 3.646 0 0 1 0-5.156" fill="#77B6A8"/></g>
       <text x="465.2" y="387.0" font-size="14" fill="#F5F5F7">PIX</text>
     </g>
-<text x="80" y="443.0" font-size="15" fill="#8E8E96">Tools &amp; Deployment</text>
+<text x="80" y="443.0" font-size="15" fill="#8E8E96">Integrations &amp; Automation</text>
 <g opacity="0" filter="url(#glowSoft)">
       <animate attributeName="opacity" from="0" to="0.95" begin="1.55s" dur="0.4s" fill="freeze"/>
-      <rect x="310" y="420" width="79.6" height="36" rx="17" ry="17" fill="#101014" stroke="url(#accentGrad)" stroke-width="1.3">
+      <rect x="310" y="420" width="128.8" height="36" rx="17" ry="17" fill="#101014" stroke="url(#accentGrad)" stroke-width="1.3">
         <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="3s" begin="1.55s" repeatCount="indefinite"/>
       </rect>
-      <g transform="translate(320.0,428.0) scale(0.8333)"><path d="M13.09 23.549a1.54 1.54 0 0 1-2.18 0L.451 13.089a1.54 1.54 0 0 1 0-2.179l7.191-7.19 2.733 2.733a1.85 1.85 0 0 0 .964 2.326v6.66a1.849 1.849 0 1 0 1.54 0V8.957l2.508 2.508a1.85 1.85 0 1 0 1.09-1.09l-2.634-2.634a1.85 1.85 0 0 0-2.378-2.377L8.73 2.63 10.91.451a1.54 1.54 0 0 1 2.179 0l10.459 10.46a1.54 1.54 0 0 1 0 2.179z" fill="#F03C2E"/></g>
-      <text x="349.0" y="443.0" font-size="14" fill="#F5F5F7">Git</text>
+      <g transform="translate(320.0,428.0)"><rect width="20" height="20" rx="5" fill="#4FD1C5" fill-opacity="0.16" stroke="#4FD1C5" stroke-opacity="0.7" stroke-width="1"/><text x="10.0" y="13.2" font-size="6.8" font-weight="700" fill="#4FD1C5" text-anchor="middle" font-family="Arial,sans-serif">API</text></g>
+      <text x="349.0" y="443.0" font-size="14" fill="#F5F5F7">REST APIs</text>
     </g>
 <g opacity="0" filter="url(#glowSoft)">
       <animate attributeName="opacity" from="0" to="0.95" begin="1.65s" dur="0.4s" fill="freeze"/>
-      <rect x="401.6" y="420" width="104.2" height="36" rx="17" ry="17" fill="#101014" stroke="url(#accentGrad)" stroke-width="1.3">
+      <rect x="450.8" y="420" width="120.6" height="36" rx="17" ry="17" fill="#101014" stroke="url(#accentGrad)" stroke-width="1.3">
         <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="3s" begin="1.65s" repeatCount="indefinite"/>
       </rect>
-      <g transform="translate(411.6,428.0) scale(0.8333)"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12" fill="#FFFFFF"/></g>
-      <text x="440.6" y="443.0" font-size="14" fill="#F5F5F7">GitHub</text>
+      <g transform="translate(460.8,428.0)"><rect width="20" height="20" rx="5" fill="#8B7CF6" fill-opacity="0.16" stroke="#8B7CF6" stroke-opacity="0.7" stroke-width="1"/><text x="10.0" y="13.2" font-size="6.8" font-weight="700" fill="#8B7CF6" text-anchor="middle" font-family="Arial,sans-serif">WH</text></g>
+      <text x="489.8" y="443.0" font-size="14" fill="#F5F5F7">Webhooks</text>
+    </g>
+<text x="80" y="499.0" font-size="15" fill="#8E8E96">Tools &amp; Deployment</text>
+<g opacity="0" filter="url(#glowSoft)">
+      <animate attributeName="opacity" from="0" to="0.95" begin="1.77s" dur="0.4s" fill="freeze"/>
+      <rect x="310" y="476" width="79.6" height="36" rx="17" ry="17" fill="#101014" stroke="url(#accentGrad)" stroke-width="1.3">
+        <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="3s" begin="1.77s" repeatCount="indefinite"/>
+      </rect>
+      <g transform="translate(320.0,484.0) scale(0.8333)"><path d="M13.09 23.549a1.54 1.54 0 0 1-2.18 0L.451 13.089a1.54 1.54 0 0 1 0-2.179l7.191-7.19 2.733 2.733a1.85 1.85 0 0 0 .964 2.326v6.66a1.849 1.849 0 1 0 1.54 0V8.957l2.508 2.508a1.85 1.85 0 1 0 1.09-1.09l-2.634-2.634a1.85 1.85 0 0 0-2.378-2.377L8.73 2.63 10.91.451a1.54 1.54 0 0 1 2.179 0l10.459 10.46a1.54 1.54 0 0 1 0 2.179z" fill="#F03C2E"/></g>
+      <text x="349.0" y="499.0" font-size="14" fill="#F5F5F7">Git</text>
     </g>
 <g opacity="0" filter="url(#glowSoft)">
-      <animate attributeName="opacity" from="0" to="0.95" begin="1.75s" dur="0.4s" fill="freeze"/>
-      <rect x="517.8" y="420" width="104.2" height="36" rx="17" ry="17" fill="#101014" stroke="url(#accentGrad)" stroke-width="1.3">
-        <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="3s" begin="1.75s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" from="0" to="0.95" begin="1.87s" dur="0.4s" fill="freeze"/>
+      <rect x="401.6" y="476" width="104.2" height="36" rx="17" ry="17" fill="#101014" stroke="url(#accentGrad)" stroke-width="1.3">
+        <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="3s" begin="1.87s" repeatCount="indefinite"/>
       </rect>
-      <g transform="translate(527.8,428.0) scale(0.8333)"><path d="M13.983 11.078h2.119a.186.186 0 00.186-.185V9.006a.186.186 0 00-.186-.186h-2.119a.185.185 0 00-.185.185v1.888c0 .102.083.185.185.185m-2.954-5.43h2.118a.186.186 0 00.186-.186V3.574a.186.186 0 00-.186-.185h-2.118a.185.185 0 00-.185.185v1.888c0 .102.082.185.185.185m0 2.716h2.118a.187.187 0 00.186-.186V6.29a.186.186 0 00-.186-.185h-2.118a.185.185 0 00-.185.185v1.887c0 .102.082.185.185.186m-2.93 0h2.12a.186.186 0 00.184-.186V6.29a.185.185 0 00-.185-.185H8.1a.185.185 0 00-.185.185v1.887c0 .102.083.185.185.186m-2.964 0h2.119a.186.186 0 00.185-.186V6.29a.185.185 0 00-.185-.185H5.136a.186.186 0 00-.186.185v1.887c0 .102.084.185.186.186m5.893 2.715h2.118a.186.186 0 00.186-.185V9.006a.186.186 0 00-.186-.186h-2.118a.185.185 0 00-.185.185v1.888c0 .102.082.185.185.185m-2.93 0h2.12a.185.185 0 00.184-.185V9.006a.185.185 0 00-.184-.186h-2.12a.185.185 0 00-.184.185v1.888c0 .102.083.185.185.185m-2.964 0h2.119a.185.185 0 00.185-.185V9.006a.185.185 0 00-.184-.186h-2.12a.186.186 0 00-.186.186v1.887c0 .102.084.185.186.185m-2.92 0h2.12a.185.185 0 00.184-.185V9.006a.185.185 0 00-.184-.186h-2.12a.185.185 0 00-.184.185v1.888c0 .102.082.185.185.185M23.763 9.89c-.065-.051-.672-.51-1.954-.51-.338.001-.676.03-1.01.087-.248-1.7-1.653-2.53-1.716-2.566l-.344-.199-.226.327c-.284.438-.49.922-.612 1.43-.23.97-.09 1.882.403 2.661-.595.332-1.55.413-1.744.42H.751a.751.751 0 00-.75.748 11.376 11.376 0 00.692 4.062c.545 1.428 1.355 2.48 2.41 3.124 1.18.723 3.1 1.137 5.275 1.137.983.003 1.963-.086 2.93-.266a12.248 12.248 0 003.823-1.389c.98-.567 1.86-1.288 2.61-2.136 1.252-1.418 1.998-2.997 2.553-4.4h.221c1.372 0 2.215-.549 2.68-1.009.309-.293.55-.65.707-1.046l.098-.288Z" fill="#2496ED"/></g>
-      <text x="556.8" y="443.0" font-size="14" fill="#F5F5F7">Docker</text>
+      <g transform="translate(411.6,484.0) scale(0.8333)"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12" fill="#FFFFFF"/></g>
+      <text x="440.6" y="499.0" font-size="14" fill="#F5F5F7">GitHub</text>
     </g>
 <g opacity="0" filter="url(#glowSoft)">
-      <animate attributeName="opacity" from="0" to="0.95" begin="1.85s" dur="0.4s" fill="freeze"/>
-      <rect x="634.0" y="420" width="79.6" height="36" rx="17" ry="17" fill="#101014" stroke="url(#accentGrad)" stroke-width="1.3">
-        <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="3s" begin="1.85s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" from="0" to="0.95" begin="1.97s" dur="0.4s" fill="freeze"/>
+      <rect x="517.8" y="476" width="104.2" height="36" rx="17" ry="17" fill="#101014" stroke="url(#accentGrad)" stroke-width="1.3">
+        <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="3s" begin="1.97s" repeatCount="indefinite"/>
       </rect>
-      <g transform="translate(644.0,428.0)"><rect width="20" height="20" rx="5" fill="#FF9900" fill-opacity="0.16" stroke="#FF9900" stroke-opacity="0.7" stroke-width="1"/><text x="10.0" y="13.2" font-size="8.0" font-weight="700" fill="#FF9900" text-anchor="middle" font-family="Arial,sans-serif">AWS</text></g>
-      <text x="673.0" y="443.0" font-size="14" fill="#F5F5F7">AWS</text>
+      <g transform="translate(527.8,484.0) scale(0.8333)"><path d="M13.983 11.078h2.119a.186.186 0 00.186-.185V9.006a.186.186 0 00-.186-.186h-2.119a.185.185 0 00-.185.185v1.888c0 .102.083.185.185.185m-2.954-5.43h2.118a.186.186 0 00.186-.186V3.574a.186.186 0 00-.186-.185h-2.118a.185.185 0 00-.185.185v1.888c0 .102.082.185.185.185m0 2.716h2.118a.187.187 0 00.186-.186V6.29a.186.186 0 00-.186-.185h-2.118a.185.185 0 00-.185.185v1.887c0 .102.082.185.185.186m-2.93 0h2.12a.186.186 0 00.184-.186V6.29a.185.185 0 00-.185-.185H8.1a.185.185 0 00-.185.185v1.887c0 .102.083.185.185.186m-2.964 0h2.119a.186.186 0 00.185-.186V6.29a.185.185 0 00-.185-.185H5.136a.186.186 0 00-.186.185v1.887c0 .102.084.185.186.186m5.893 2.715h2.118a.186.186 0 00.186-.185V9.006a.186.186 0 00-.186-.186h-2.118a.185.185 0 00-.185.185v1.888c0 .102.082.185.185.185m-2.93 0h2.12a.185.185 0 00.184-.185V9.006a.185.185 0 00-.184-.186h-2.12a.185.185 0 00-.184.185v1.888c0 .102.083.185.185.185m-2.964 0h2.119a.185.185 0 00.185-.185V9.006a.185.185 0 00-.184-.186h-2.12a.186.186 0 00-.186.186v1.887c0 .102.084.185.186.185m-2.92 0h2.12a.185.185 0 00.184-.185V9.006a.185.185 0 00-.184-.186h-2.12a.185.185 0 00-.184.185v1.888c0 .102.082.185.185.185M23.763 9.89c-.065-.051-.672-.51-1.954-.51-.338.001-.676.03-1.01.087-.248-1.7-1.653-2.53-1.716-2.566l-.344-.199-.226.327c-.284.438-.49.922-.612 1.43-.23.97-.09 1.882.403 2.661-.595.332-1.55.413-1.744.42H.751a.751.751 0 00-.75.748 11.376 11.376 0 00.692 4.062c.545 1.428 1.355 2.48 2.41 3.124 1.18.723 3.1 1.137 5.275 1.137.983.003 1.963-.086 2.93-.266a12.248 12.248 0 003.823-1.389c.98-.567 1.86-1.288 2.61-2.136 1.252-1.418 1.998-2.997 2.553-4.4h.221c1.372 0 2.215-.549 2.68-1.009.309-.293.55-.65.707-1.046l.098-.288Z" fill="#2496ED"/></g>
+      <text x="556.8" y="499.0" font-size="14" fill="#F5F5F7">Docker</text>
     </g>
 <g opacity="0" filter="url(#glowSoft)">
-      <animate attributeName="opacity" from="0" to="0.95" begin="1.95s" dur="0.4s" fill="freeze"/>
-      <rect x="725.6" y="420" width="104.2" height="36" rx="17" ry="17" fill="#101014" stroke="url(#accentGrad)" stroke-width="1.3">
-        <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="3s" begin="1.95s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" from="0" to="0.95" begin="2.07s" dur="0.4s" fill="freeze"/>
+      <rect x="634.0" y="476" width="79.6" height="36" rx="17" ry="17" fill="#101014" stroke="url(#accentGrad)" stroke-width="1.3">
+        <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="3s" begin="2.07s" repeatCount="indefinite"/>
       </rect>
-      <g transform="translate(735.6,428.0) scale(0.8333)"><path d="m12 1.608 12 20.784H0Z" fill="#FFFFFF"/></g>
-      <text x="764.6" y="443.0" font-size="14" fill="#F5F5F7">Vercel</text>
+      <g transform="translate(644.0,484.0)"><rect width="20" height="20" rx="5" fill="#FF9900" fill-opacity="0.16" stroke="#FF9900" stroke-opacity="0.7" stroke-width="1"/><text x="10.0" y="13.2" font-size="6.8" font-weight="700" fill="#FF9900" text-anchor="middle" font-family="Arial,sans-serif">AWS</text></g>
+      <text x="673.0" y="499.0" font-size="14" fill="#F5F5F7">AWS</text>
+    </g>
+<g opacity="0" filter="url(#glowSoft)">
+      <animate attributeName="opacity" from="0" to="0.95" begin="2.17s" dur="0.4s" fill="freeze"/>
+      <rect x="725.6" y="476" width="104.2" height="36" rx="17" ry="17" fill="#101014" stroke="url(#accentGrad)" stroke-width="1.3">
+        <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="3s" begin="2.17s" repeatCount="indefinite"/>
+      </rect>
+      <g transform="translate(735.6,484.0) scale(0.8333)"><path d="m12 1.608 12 20.784H0Z" fill="#FFFFFF"/></g>
+      <text x="764.6" y="499.0" font-size="14" fill="#F5F5F7">Vercel</text>
     </g>
 </g>
 </svg>
