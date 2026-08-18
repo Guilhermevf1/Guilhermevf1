@@ -1,14 +1,14 @@
 <div align="center">
 
-<img alt="Guilherme" src="dark.svg">
+<img alt="Guilherme" src="dark.svg?v=3">
 
 <br>
 
-<img alt="About Me" src="about.svg">
+<img alt="About Me" src="about.svg?v=3">
 
 <br>
 
-<img alt="Tech Stack" src="techstack.svg">
+<img alt="Tech Stack" src="techstack.svg?v=3">
 
 </div>
 
