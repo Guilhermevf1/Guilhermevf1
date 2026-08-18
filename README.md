@@ -1,18 +1,20 @@
 <div align="center">
 
-<img alt="Guilherme" src="dark.svg?v=3">
+<img alt="Guilherme" src="dark.svg?v=4">
 
 <br>
 
-<img alt="About Me" src="about.svg?v=3">
+<img alt="About Me" src="about.svg?v=4">
 
 <br>
 
-<img alt="Tech Stack" src="techstack.svg?v=3">
+<img alt="Tech Stack" src="techstack.svg?v=4">
 
 </div>
 
 <br>
+
+Full-Stack Developer focado em construir aplicações web e sistemas de negócio práticos, com experiência hands-on em APIs, bancos de dados, pagamentos, integrações e automação.
 
 ## What I Build
 
@@ -38,30 +40,27 @@ Tenho experiência prática desenvolvendo sistemas em produção para necessidad
 
 **Experiência aplicada em projetos reais:**
 
-- Backend (APIs, autenticação/autorização, regras de negócio)
+- Backend (APIs, autenticação/autorização e regras de negócio)
 - Payments, subscriptions & integrations (Stripe, PIX, webhooks, APIs externas)
 - Dashboards & analytics (indicadores de negócio, visualização de dados)
 - Database design (modelagem e estruturação de banco de dados)
-- API security (autenticação, autorização, validação de dados de entrada)
-- Performance (otimização de queries, carregamento, identificação de gargalos)
+- API Security (autenticação, autorização e validação de dados de entrada)
+- Performance Optimization (otimização de queries, carregamento e identificação de gargalos)
 
-**Aprofundando atualmente, através da graduação em Engenharia de Software:**
+**Currently Deepening:**
 
-- Backend (conceitos e padrões mais avançados)
+- Backend architecture & advanced patterns
 - Software architecture
 - System design
-- API security (conceitos mais avançados)
-- Performance (técnicas mais avançadas)
+- Application Security & Secure API Design
+- Performance Engineering
 - Database design (modelagem para sistemas mais complexos)
 - Testing (testes automatizados)
-- Java
-- Spring Boot
+- Java & Spring Boot (em aprendizado)
 
 ---
 
 ## Contact
 
-- GitHub: [@Guilhermevf1](https://github.com/Guilhermevf1)
 - LinkedIn: [guilherme-vieira](https://www.linkedin.com/in/guilherme-vieira-a666212b0)
-- Portfolio: em construção
-- Email: joaoguilhermevf@outlook.com
+- Email: [joaoguilhermevf@outlook.com](mailto:joaoguilhermevf@outlook.com)
