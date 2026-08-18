@@ -32,15 +32,15 @@
 
 ### Public Projects
 
-Os repositórios públicos deste perfil refletem estudos, testes e projetos pessoais em desenvolvimento — disponíveis na aba **Repositories**.
+Os repositórios públicos deste perfil refletem estudos, testes e projetos pessoais em desenvolvimento, disponíveis na aba **Repositories**.
 
 ### Private / Real-world Projects
 
-**CRM — Transportadora** · *projeto privado / comercial*
-Desenvolvimento de uma aplicação de gestão para uma operação de transporte, cobrindo processos internos da operação. Código e dados proprietários — não disponível publicamente.
+**CRM para Transportadora** · *projeto privado / comercial*
+Desenvolvimento de uma aplicação de gestão para uma operação de transporte, cobrindo processos internos da operação. Código e dados proprietários, não disponível publicamente.
 
 **E-commerce** · *projeto privado / comercial*
-Desenvolvimento de um sistema de e-commerce, incluindo catálogo de produtos, processamento de pedidos e integração de pagamentos. Código e dados proprietários — não disponível publicamente.
+Desenvolvimento de um sistema de e-commerce, incluindo catálogo de produtos, processamento de pedidos e integração de pagamentos. Código e dados proprietários, não disponível publicamente.
 
 ---
 
