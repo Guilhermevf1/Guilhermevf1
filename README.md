@@ -14,65 +14,31 @@
 
 <br>
 
-## What I Build
-
-- Business applications
-- CRM systems
-- E-commerce
-- Dashboards
-- Payment systems
-- APIs
-- Automation
-- Third-party integrations
-- Analytics systems
-
----
-
-## Experience
-
-### Public Projects
-
-Os repositórios públicos deste perfil refletem estudos, testes e projetos pessoais em desenvolvimento, disponíveis na aba **Repositories**.
-
-### Private / Real-world Projects
+## Real-World Experience
 
 **CRM para Transportadora** · *projeto privado / comercial*
-Desenvolvimento de uma aplicação de gestão para uma operação de transporte, cobrindo processos internos da operação. Código e dados proprietários, não disponível publicamente.
+Desenvolvimento de uma aplicação de gestão para uma operação de transporte: gestão de informações, banco de dados, autenticação, dashboards operacionais, regras de negócio específicas da operação, integrações entre sistemas e analytics para acompanhamento dos processos. Código e dados proprietários, não disponível publicamente.
 
 **E-commerce** · *projeto privado / comercial*
-Desenvolvimento de um sistema de e-commerce, incluindo catálogo de produtos, processamento de pedidos e integração de pagamentos. Código e dados proprietários, não disponível publicamente.
+Desenvolvimento de um sistema de e-commerce: catálogo de produtos, gestão de pedidos, banco de dados, processamento de pagamentos (Stripe e PIX), subscriptions, integrações com serviços externos, automações e dashboards administrativos. Código e dados proprietários, não disponível publicamente.
 
 ---
 
-## Payments & Integrations
+## Engineering Focus
 
-Experiência prática com sistemas de pagamento e integrações entre serviços, incluindo **Stripe** e **PIX**, subscriptions, webhooks, integrações com APIs externas e automações entre sistemas.
+**Experiência aplicada em projetos reais:**
 
----
+- Backend (APIs, autenticação/autorização, regras de negócio)
+- Database design (modelagem e estruturação de banco de dados)
+- API security (autenticação, autorização, validação de dados de entrada)
+- Performance (otimização de queries, carregamento, identificação de gargalos)
 
-## Software Engineering
+**Aprofundando atualmente, através da graduação em Engenharia de Software:**
 
-Experiência prática aplicando conceitos de API design, autenticação/autorização, performance e segurança em projetos reais.
-
-Atualmente aprofundando, através da graduação em Engenharia de Software:
-
-- Backend
-- Arquitetura de software
+- Software architecture
 - System design
-- Modelagem de banco de dados
-- Testes automatizados
-
----
-
-## Performance & Optimization
-
-Experiência e interesse em otimização de aplicações, queries, carregamento, eficiência e identificação de gargalos.
-
----
-
-## Security
-
-Segurança considerada durante todo o processo de desenvolvimento, com experiência prática em autenticação, autorização, validação de dados de entrada e boas práticas de segurança no design de APIs.
+- Testing (testes automatizados)
+- Java
 
 ---
 
